@@ -1,0 +1,143 @@
+<template>
+  <body class="bg-gradient-to-b from-orange-400 to-red-500">
+    <section class="text-gray-600 body-font">
+      <div
+        class="container mx-auto flex px-5 py-32 items-center justify-center flex-col"
+      >
+        <img
+          class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
+          alt="hero"
+          src="https://www.flaticon.com/svg/vstatic/svg/3090/3090466.svg?token=exp=1610748049~hmac=fd51be7bf60d7cae0a734632a55ec672"
+        />
+        <div class="text-center lg:w-2/3 w-full">
+          <h1
+            class="title-font sm:text-4xl text-3xl mb-4 font-medium text-black"
+          >
+            En iyisi, iyileri. <br />
+            Sizin için.
+          </h1>
+          <p class="mb-8 mt-3 leading-relaxed text-white">
+            Yaz Çiçekleri'nde haftalık düzenenlenen film/müzik/oyun
+            etkinlikleriyle, aylık düzenenlenen çekilişler arasında gidip
+            gelmeye hiç gerek yok. Bunu bir düzen içerisinde zaten ekipçe
+            yapıyoruz. ;) <br />
+            Sunucumuza gelmek için altta bulunan "Discord" butonuna tıklayıp,
+            kendi <a class="underline">'çiçek'</a> hikayenizi bugünden itibaren
+            yazmaya başlayabilirsiniz.
+          </p>
+          <div class="flex justify-center">
+            <a href="https://discord.gg/VvN88r3">
+              <button
+                class="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded-2xl text-lg hover:underline"
+              >
+                Discord
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="text-gray-600 body-font">
+      <div
+        class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center"
+      >
+        <div
+          class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
+        >
+          <h1
+            class="title-font sm:text-3xl text-4xl mb-4 font-medium text-black"
+          >
+            Sizin
+            <a class="underline"
+              >memnuniyetinizi, <br class="hidden lg:inline-block" />
+              güvenliğinizi</a
+            >
+            bizzat önemseriz.
+          </h1>
+          <p class="mb-8 mt-6 leading-relaxed text-white">
+            Sunucumuzda bulunduğunuz süre zaafında kurallara uymayan herhangi
+            birisi size; sataşıyorsa, kavga ortamı oluşturmaya müsaitse,
+            herhangi bir neden ötürü ne olursa olsun sizi bile bile rahatsız
+            ediyorsa biz buradayız. Arsa Bekçilerine bu terbiyesiz tohumları
+            şikayet edip, adaleti <strong>siz</strong> sağlayabilirsiniz bizzat
+            bize bu bahsettiğimiz etkenleri yapan kullanıcıların adlarını ve
+            ID'lerini özelden ulaştırırsanız.
+          </p>
+        </div>
+        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+          <img
+            class="object-cover object-center rounded"
+            alt="hero"
+            src="https://www.flaticon.com/svg/vstatic/svg/388/388531.svg?token=exp=1610748005~hmac=068b2a28499cb01b6a0552b9491583a0"
+          />
+        </div>
+      </div>
+    </section>
+
+    <section class="text-gray-600 body-font">
+      <div
+        class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center"
+      >
+        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+          <img
+            class="object-cover object-center rounded"
+            alt="hero"
+            src="https://www.flaticon.com/svg/vstatic/svg/3260/3260230.svg?token=exp=1610747951~hmac=2e49b55fe33c4bc39043d7a303f42ee9"
+          />
+        </div>
+        <div
+          class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center"
+        >
+          <h1
+            class="title-font sm:text-3xl text-4xl mb-4 font-medium text-black"
+          >
+            Sunucu içerisinde olan
+            <a class="underline">eğlenceli oyunlar ile</a> kendi seviyenizi bir
+            üstte taşıyın.
+          </h1>
+          <p class="mb-8 mt-6 leading-relaxed text-white">
+            Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı,
+            vampir-köylü gibi oyunlarla hem seviyeniz için XP kazanabilir, hem
+            arkadaşlarınızla beraber ortak bir şekilde oyununuzu
+            oynayabilirsiniz. Merak etmeyin, vampir olduğumuz zaman sizi zevk
+            diye ısırmayacağız ama bunun garantisini hiçbir yetkili ekip üyesi
+            sağlayamaz. 😈
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="text-gray-600 body-font">
+      <div class="container px-5 py-24 mx-auto">
+        <div class="flex flex-col text-center w-full mb-12">
+          <h1
+            class="sm:text-3xl text-2xl font-medium title-font mb-2 text-black"
+          >
+            Ne duruyorsunuz? Bizde çay için sizi bekliyoruz o kadar! 😠
+          </h1>
+          <p class="lg:w-2/3 mx-auto leading-relaxed text-white">
+            Şaka bir yana, sizleri de sunucumuzda karşılamaktan gurur duyarız.
+            Haydi! Altta bulunan butona tıklayarak sinirli bir şekilde periler
+            tarafından tohum halinize gelip zamanla çiçek açabilirsiniz!
+          </p>
+        </div>
+        <div
+          class="flex lg:w-2/3 w-full sm:flex-row flex-col mx-auto px-8 sm:space-x-4 sm:space-y-0 space-y-4 sm:px-0 items-end"
+        >
+          <button
+            class="widthius text-white bg-orange-500 border-0 py-2 px-5 focus:outline-none hover:bg-orange-600 hover:underline rounded-2xl text-lg"
+          >
+            Sunucuya Katıl!
+          </button>
+        </div>
+      </div>
+    </section>
+  </body>
+</template>
+
+<style>
+.widthius {
+  margin: 0 auto;
+}
+</style>
