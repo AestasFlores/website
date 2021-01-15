@@ -7,7 +7,7 @@
         <img
           class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
           alt="hero"
-          src="https://www.flaticon.com/svg/vstatic/svg/3090/3090466.svg?token=exp=1610748049~hmac=fd51be7bf60d7cae0a734632a55ec672"
+          src="../static/community.svg"
         />
         <div class="text-center lg:w-2/3 w-full">
           <h1
@@ -69,7 +69,7 @@
           <img
             class="object-cover object-center rounded"
             alt="hero"
-            src="https://www.flaticon.com/svg/vstatic/svg/388/388531.svg?token=exp=1610748005~hmac=068b2a28499cb01b6a0552b9491583a0"
+            src="../static/secure-shield.svg"
           />
         </div>
       </div>
@@ -83,7 +83,7 @@
           <img
             class="object-cover object-center rounded"
             alt="hero"
-            src="https://www.flaticon.com/svg/vstatic/svg/3260/3260230.svg?token=exp=1610747951~hmac=2e49b55fe33c4bc39043d7a303f42ee9"
+            src="../static/game-controller.svg"
           />
         </div>
         <div
