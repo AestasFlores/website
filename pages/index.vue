@@ -1,5 +1,5 @@
 <template>
-  <body class="bg-gradient-to-t from-orange-400 to-red-600">
+  <body class="bg-gradient-to-t from-orange-400 to-red-600 select-none">
     <div
       class="widthius text-center justify-center align-center py-32"
       data-aos="zoom-in-up"
