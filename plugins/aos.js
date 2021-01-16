@@ -3,7 +3,7 @@ import "aos/dist/aos.css";
 
 export default ({ app }) => {
   app.AOS = new AOS.init({ 
-    disable: window.innerWidth < 800,
+    disable: 'mobile',
     // offset: 200,
     duration: 600,
     easing: 'ease-in-out-cubic',
