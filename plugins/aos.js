@@ -2,7 +2,8 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 export default ({ app }) => {
-  app.AOS = new AOS.init({ 
+  app.AOS = new AOS.init({
+    startEvent: 'load',
     disable: 'mobile',
     offset: 200,
     duration: 600,
