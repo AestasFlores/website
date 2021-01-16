@@ -8,5 +8,5 @@ export default ({ app }) => {
     duration: 600,
     easing: 'ease-in-out-cubic',
     once: true
-  }); // or any other options you need
+  });
 };
