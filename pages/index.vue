@@ -5,15 +5,15 @@
       data-aos="zoom-in-up"
       data-aos-duration="800"
     >
-      <h1 class="text-6xl">Aestas Flores 🌸</h1>
-      <h3 class="text-4xl text-white mt-2">
+      <h1 class="text-6xl sm:text-4xl">Aestas Flores 🌸</h1>
+      <h3 class="text-4xl text-gray-200 mt-2 sm:text-3xl">
         Minik tohumların önce filizlendiği, <br />
         sonra çiçek açmış olduğu bir topluluk sunucusu.
       </h3>
-      <p class="text-2xl mt-6">
+      <p class="text-2xl mt-6 sm:text-xl">
         Neden mi katılmalısınız? <br />Çünkü
         <vue-typer
-          class="text-2xl"
+          class="text-2xl sm:text-xl"
           :text="about.info"
           :repeat="Infinity"
           :shuffle="false"
@@ -30,7 +30,7 @@
 
       <img
         src="../static/logo_black.svg"
-        class="mt-12 w-64 h-64 px-5 py-5 mx-auto animate-pulse"
+        class="mt-12 w-64 h-64 px-5 py-5 sm:w-32 sm:h-32 mx-auto animate-pulse"
       />
     </div>
   </body>
@@ -39,7 +39,7 @@
 <style>
 .widthius {
   margin: 0 auto;
-  max-width: 950px;
+  max-width: 850px;
 }
 
 img {
