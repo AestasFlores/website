@@ -3,15 +3,15 @@
     <div
       class="widthius text-center justify-center align-center py-32"
     >
-      <h1 class="text-6xl md:text-4xl">Aestas Flores 🌸</h1>
-      <h3 class="text-4xl text-gray-200 mt-2 md:text-3xl">
+      <h1 class="text-4xl md:text-6xl">Aestas Flores 🌸</h1>
+      <h3 class="text-3xl text-gray-200 mt-2 md:text-4xl">
         Minik tohumların önce filizlendiği, <br />
         sonra çiçek açmış olduğu bir topluluk sunucusu.
       </h3>
-      <p class="text-2xl mt-6 md:text-xl">
+      <p class="text-xl mt-6 md:text-2xl">
         Neden mi katılmalısınız? <br />Çünkü
         <vue-typer
-          class="text-2xl md:text-xl"
+          class="text-xl md:text-2xl"
           :text="about.info"
           :repeat="Infinity"
           :shuffle="false"
