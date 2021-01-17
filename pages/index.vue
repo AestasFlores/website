@@ -3,7 +3,7 @@
     <div
       class="widthius text-center justify-center align-center py-32"
     >
-      <h1 class="text-4xl md:text-6xl">Aestas Flores 🌸</h1>
+      <h1 class="text-5xl md:text-6xl">Aestas Flores 🌸</h1>
       <h3 class="text-3xl text-gray-200 mt-2 md:text-4xl">
         Minik tohumların önce filizlendiği, <br />
         sonra çiçek açmış olduğu bir topluluk sunucusu.
