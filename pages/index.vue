@@ -2,8 +2,6 @@
   <body class="bg-gradient-to-t from-orange-400 to-red-600 select-none">
     <div
       class="widthius text-center justify-center align-center py-32"
-      data-aos="zoom-in-up"
-      data-aos-duration="800"
     >
       <h1 class="text-6xl sm:text-4xl">Aestas Flores 🌸</h1>
       <h3 class="text-4xl text-gray-200 mt-2 sm:text-3xl">
