@@ -16,7 +16,7 @@
             En iyisi, iyileri. <br />
             Sizin için.
           </h1>
-          <p class="mb-8 mt-3 leading-relaxed text-white">
+          <p class="mb-8 mt-3 leading-relaxed text-gray-300">
             Yaz Çiçekleri'nde haftalık düzenenlenen film/müzik/oyun
             etkinlikleriyle, aylık düzenenlenen çekilişler arasında gidip
             gelmeye hiç gerek yok. Bunu bir düzen içerisinde zaten ekipçe
@@ -55,7 +55,7 @@
             >
             bizzat önemseriz.
           </h1>
-          <p class="mb-8 mt-6 leading-relaxed text-white">
+          <p class="mb-8 mt-6 leading-relaxed text-gray-300">
             Sunucumuzda bulunduğunuz süre zaafında kurallara uymayan herhangi
             birisi size; sataşıyorsa, kavga ortamı oluşturmaya müsaitse,
             herhangi bir neden ötürü ne olursa olsun sizi bile bile rahatsız
@@ -96,7 +96,7 @@
             <a class="underline">eğlenceli oyunlar ile</a> kendi seviyenizi bir
             üstte taşıyın.
           </h1>
-          <p class="mb-8 mt-6 leading-relaxed text-white">
+          <p class="mb-8 mt-6 leading-relaxed text-gray-300">
             Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı,
             vampir-köylü gibi oyunlarla hem seviyeniz için XP kazanabilir, hem
             arkadaşlarınızla beraber ortak bir şekilde oyununuzu
@@ -116,7 +116,7 @@
           >
             Ne duruyorsunuz? Bizde çay için sizi bekliyoruz o kadar! 😠
           </h1>
-          <p class="lg:w-2/3 mx-auto leading-relaxed text-white">
+          <p class="lg:w-2/3 mx-auto leading-relaxed text-gray-300">
             Şaka bir yana, sizleri de sunucumuzda karşılamaktan gurur duyarız.
             Haydi! Altta bulunan butona tıklayarak sinirli bir şekilde periler
             tarafından tohum halinize gelip zamanla çiçek açabilirsiniz!
