@@ -8,10 +8,10 @@
         Minik tohumların önce filizlendiği, <br />
         sonra çiçek açmış olduğu bir topluluk sunucusu.
       </h3>
-      <p class="text-xl mt-6 md:text-2xl">
+      <p class="text-base mt-6 md:text-2xl">
         Neden mi katılmalısınız? <br />Çünkü
         <vue-typer
-          class="text-lg md:text-2xl"
+          class="text-base md:text-2xl"
           :text="about.info"
           :repeat="Infinity"
           :shuffle="false"
