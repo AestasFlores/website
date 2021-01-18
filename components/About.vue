@@ -5,7 +5,7 @@
         class="container mx-auto flex px-5 py-32 items-center justify-center flex-col"
       >
         <img
-          class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
+          class="lg:w-2/6 md:w-5/6 w-3/6 mb-10 object-cover object-center rounded"
           alt="hero"
           src="../static/community.svg"
         />
@@ -65,7 +65,7 @@
             ID'lerini özelden ulaştırırsanız.
           </p>
         </div>
-        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-4/6">
           <img
             class="object-cover object-center rounded"
             alt="hero"
@@ -79,7 +79,7 @@
       <div
         class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center"
       >
-        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-4/6 mb-10 md:mb-0">
           <img
             class="object-cover object-center rounded"
             alt="hero"
