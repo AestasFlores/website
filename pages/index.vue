@@ -11,7 +11,7 @@
       <p class="text-xl mt-6 md:text-2xl">
         Neden mi katılmalısınız? <br />Çünkü
         <vue-typer
-          class="text-xl md:text-2xl"
+          class="text-lg md:text-2xl"
           :text="about.info"
           :repeat="Infinity"
           :shuffle="false"
