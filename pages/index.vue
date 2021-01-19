@@ -28,7 +28,7 @@
 
       <img
         src="../static/logo_black.svg"
-        class="transform scale-150 mt-12 w-32 h-32 px-5 py-5 md:w-64 md:h-64 mx-auto animate-pulse"
+        class="transform scale-75 mt-12 w-32 h-32 px-5 py-5 md:w-64 md:h-64 mx-auto animate-pulse"
       />
     </div>
   </body>
