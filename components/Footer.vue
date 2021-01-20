@@ -17,7 +17,7 @@
         <a
           href="https://github.com/kaguwomin"
           rel="noopener noreferrer"
-          class="text-gray-700 hover:underline"
+          class="text-gray-900 hover:underline"
           target="_blank"
           >@kaguwomin</a
         >
