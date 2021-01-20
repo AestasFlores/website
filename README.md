@@ -24,7 +24,7 @@ Elbette hayır, bir saniye bu bir şaka değil. Gerçekten de farklı alanlarda 
 
 <h2> Bana biraz daha ayrıntılı bilgi verin?! </h2>
 
-Neler yaptığımızı merak ediyor olmanız harika, ve doğrusunu söylemek gerekirse heyecan verici! Hadi gelin basit bir sıralama ile neler yaptığımızı açıklayalım; Vue, CSS, HTML, SCSS, JavaScript, Tailwind, Python ve Nuxt gibi birden fazla dilde, framework'te projeler geliştirmek için çalışıyoruz. Bu projelerimiz genelde; Website, Landing Page, Front-end ve daha birden fazla alanda oluyor. 
+Neler yaptığımızı merak ediyor olmanız harika, ve doğrusunu söylemek gerekirse heyecan verici! Hadi gelin basit bir sıralama ile neler yaptığımızı açıklayalım; Vue, CSS, HTML, SCSS, JavaScript, Tailwind, Python ve Nuxt gibi birden fazla dilde, framework'te projeler geliştirmek için çalışıyoruz. Bu projelerimiz genelde; Website, Landing Page, Front-end ve daha birden fazla alanda oluyor..
 
 <img width="15%" align="right" src="https://cdn.discordapp.com/emojis/795932911689793557.png?v=1">
 
