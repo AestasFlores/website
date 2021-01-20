@@ -16,4 +16,5 @@ Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı, vampir-köylü 
 
 Neden mi katılmalısınız, işte cevabı!; Çünkü yeni türde çiçekler bulabilirsiniz, çünkü saygı çerçevesinde konuşuruz, çünkü tohumlarımızı önemseriz, çünkü çekilişler yaparız ve sizlere ödüller vermek için heyecanlanırız, çünkü özel oyunlar oynayarak hep beraber eğleniriz, çünkü Twitch yayınları düzenleriz, çünkü burada herkese göre bir amaç var; Aslında biliyor musun, amaçlar/çünküler uzar gider; bizim için önemli olan kullanıcı memnuniyeti!
 
+<img width="30%" align="left" src="https://aestasflores.me/_nuxt/img/community.304677b.svg">
 
