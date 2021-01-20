@@ -6,7 +6,7 @@ Yaz Çiçekleri'nde haftalık düzenenlenen **film/müzik/oyun etkinlikleriyle**
 
 <h2> Sizin memnuniyetinizi, güvenliğinizi bizzat önemseriz. </h2>
 
-**Sunucumuzda bulunduğunuz süre zaafında kurallara uymayan herhangi birisi size; sataşıyorsa, kavga ortamı oluşturmaya müsaitse, herhangi bir neden ötürü ne olursa olsun sizi bile bile rahatsız ediyorsa biz buradayız.** Arsa Bekçilerine bu terbiyesiz tohumları şikayet edip, adaleti siz sağlayabilirsiniz bizzat bize bu bahsettiğimiz etkenleri yapan kullanıcıların adlarını ve ID'lerini özelden ulaştırırsanız.
+**Sunucumuzda bulunduğunuz süre zaafında kurallara uymayan herhangi birisi size; sataşıyorsa, kavga ortamı oluşturmaya müsaitse, herhangi bir neden ötürü ne olursa olsun sizi bile bile rahatsız ediyorsa biz buradayız.** Arsa Bekçilerine bu terbiyesiz tohumları şikayet edip, adaleti siz sağlayabilirsiniz bizzat bize bu bahsettiğimiz etkenleri yapan kullanıcıların adlarını ve ID'lerini özelden ulaştırırsanız daha hızlı bir işlem yapabiliriz.
 
 <h2> Sunucu içerisinde olan eğlenceli oyunlar ile kendi seviyenizi bir üstte taşıyın. </h2>
 
