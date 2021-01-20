@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-200">
+  <div class="bg-gradient-to-b from-red-500 to-orange-500">
     <div
       class="container px-6 py-2 mx-auto flex items-center sm:flex-row flex-col"
     >
@@ -8,16 +8,16 @@
       >
         <img
           src="../static/logo.svg"
-          class="dynamic text-white p-2 bg-gradient-to-l from-orange-400 to-red-200"
+          class="dynamic text-white p-2 bg-gradient-to-l from-orange-400 to-red-400"
         />
         <span class="ml-2 text-xl">Aestas Flores | 2020</span>
       </a>
-      <p class="text-sm text-gray-500 sm:ml-2 sm:mt-0 mt-4">
+      <p class="text-sm text-gray-300 sm:ml-2 sm:mt-0 mt-4">
         — Made by
         <a
           href="https://github.com/kaguwomin"
           rel="noopener noreferrer"
-          class="text-gray-600 hover:underline"
+          class="text-gray-700 hover:underline"
           target="_blank"
           >@kaguwomin</a
         >
