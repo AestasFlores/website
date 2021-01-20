@@ -16,5 +16,10 @@ Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı, vampir-köylü 
 
 Neden mi katılmalısınız, işte cevabı!; Çünkü yeni türde çiçekler bulabilirsiniz, çünkü saygı çerçevesinde konuşuruz, çünkü tohumlarımızı önemseriz, çünkü çekilişler yaparız ve sizlere ödüller vermek için heyecanlanırız, çünkü özel oyunlar oynayarak hep beraber eğleniriz, çünkü Twitch yayınları düzenleriz, çünkü burada herkese göre bir amaç var; Aslında biliyor musun, amaçlar/çünküler uzar gider; bizim için önemli olan kullanıcı memnuniyeti!
 
-<img width="30%" align="left" src="https://aestasflores.me/_nuxt/img/community.304677b.svg">
+<img width="20%" align="left" src="https://cdn.discordapp.com/emojis/785802925763067924.png?v=1">
+
+<h2> Peki sadece bir sunucudan mı oluşuyoruz? </h2>
+
+Elbette hayır, bir saniye bu bir şaka değil. Gerçekten de farklı alanlarda çalışmalar yapmak için hazırız desek yalan olmaz. Alanında bilgili sayılabilecek harika bir ekibimiz var, -evet çok mütevazi-. <a href="https://github.com/AestasFlores">Github</a> üzerinden açık kaynaklı projeler paylaşıyoruz, bu açık kaynaklı projeleri her güm daha iyi hale getirmek için çalışıyoruz.
+
 
