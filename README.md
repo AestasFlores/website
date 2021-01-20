@@ -8,7 +8,7 @@ Yaz Çiçekleri'nde haftalık düzenenlenen **film/müzik/oyun etkinlikleriyle**
 
 **Sunucumuzda bulunduğunuz süre zaafında kurallara uymayan herhangi birisi size; sataşıyorsa, kavga ortamı oluşturmaya müsaitse, herhangi bir neden ötürü ne olursa olsun sizi bile bile rahatsız ediyorsa biz buradayız.** Arsa Bekçilerine bu terbiyesiz tohumları şikayet edip, adaleti siz sağlayabilirsiniz bizzat bize bu bahsettiğimiz etkenleri yapan kullanıcıların adlarını ve ID'lerini özelden ulaştırırsanız daha hızlı bir işlem yapabiliriz.
 
-<h2> Sunucu içerisinde olan eğlenceli oyunlar ile kendi seviyenizi bir üstte taşıyın. </h2>
+<h2> Sunucu içerisinde olan eğlenceli oyunlar ile seviyenizi bir üstte taşıyın. </h2>
 
 Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı, vampir-köylü gibi oyunlarla hem seviyeniz için XP kazanabilir, hem arkadaşlarınızla beraber ortak bir şekilde oyununuzu oynayabilirsiniz. **Merak etmeyin**, vampir olduğumuz zaman sizi zevk diye ısırmayacağız ama bunun garantisini hiçbir yetkili ekip üyesi sağlayamaz, haha!
 
@@ -22,7 +22,7 @@ Neden mi katılmalısınız, işte cevabı!; Çünkü yeni türde çiçekler bul
 
 Elbette hayır, bir saniye bu bir şaka değil. Gerçekten de farklı alanlarda çalışmalar yapmak için hazırız desek yalan olmaz. Alanında bilgili sayılabilecek harika bir ekibimiz var, -evet çok mütevazi-. <a href="https://github.com/AestasFlores">Github</a> üzerinden açık kaynaklı projeler paylaşıyoruz, bu açık kaynaklı projeleri her güm daha iyi hale getirmek için çalışıyoruz.
 
-<h2> Bana biraz daha ayrıntılı bilgi verin? Nasıl açık kaynaklı projeler yapıyorsunuz?! </h2>
+<h2> Bana biraz daha ayrıntılı bilgi verin?! </h2>
 
 Neler yaptığımızı merak ediyor olmanız harika, ve doğrusunu söylemek gerekirse heyecan verici! Hadi gelin basit bir sıralama ile neler yaptığımızı açıklayalım; Vue, CSS, HTML, SCSS, JavaScript, Tailwind, Python ve Nuxt gibi birden fazla dilde, framework'te projeler geliştirmek için çalışıyoruz. Bu projelerimiz genelde; Website, Landing Page, Front-end ve daha birden fazla alanda oluyor. 
 
