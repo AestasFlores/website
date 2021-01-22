@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gradient-to-b from-red-500 to-orange-500">
+  <div class="bg-gradient-to-b from-red-500 via-orange-600 to-orange-500">
     <div
       class="container px-6 py-2 mx-auto flex items-center sm:flex-row flex-col"
     >
