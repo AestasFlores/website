@@ -5,18 +5,18 @@
         class="container mx-auto flex px-5 py-32 items-center justify-center flex-col"
       >
         <img
-          class="lg:w-2/6 md:w-5/6 w-3/6 mb-10 object-cover object-center rounded"
+          class="lg:w-1/4 md:w-4/6 w-1/2 mb-10 object-cover object-center rounded"
           alt="hero"
           src="../static/community.svg"
         />
         <div class="text-center lg:w-2/3 w-full">
           <h1
-            class="title-font sm:text-4xl text-3xl mb-4 font-medium text-black"
+            class="title-font md:text-5xl text-2xl mb-4 font-medium text-black"
           >
             En iyisi, iyileri. <br />
             Sizin için.
           </h1>
-          <p class="mb-8 mt-3 leading-relaxed text-gray-300">
+          <p class="mb-8 mt-3 leading-snug text-gray-300">
             Yaz Çiçekleri'nde haftalık düzenenlenen film/müzik/oyun
             etkinlikleriyle, aylık düzenenlenen çekilişler arasında gidip
             gelmeye hiç gerek yok. Bunu bir düzen içerisinde zaten ekipçe
@@ -46,7 +46,7 @@
           class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
         >
           <h1
-            class="title-font sm:text-3xl text-4xl mb-4 font-medium text-black"
+            class="title-font md:text-5xl text-3xl mb-4 font-medium text-black"
           >
             Sizin
             <a class="underline"
@@ -65,7 +65,7 @@
             ID'lerini özelden ulaştırırsanız.
           </p>
         </div>
-        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-4/6">
+        <div class="lg:max-w-lg lg:w-full md:w-4/6 w-1/2">
           <img
             class="object-cover object-center rounded"
             alt="hero"
@@ -79,7 +79,7 @@
       <div
         class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center"
       >
-        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-4/6 mb-10 md:mb-0">
+        <div class="lg:max-w-lg lg:w-full md:w-4/6 w-1/2 mb-10 md:mb-0">
           <img
             class="object-cover object-center rounded"
             alt="hero"
@@ -90,13 +90,13 @@
           class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center"
         >
           <h1
-            class="title-font sm:text-3xl text-4xl mb-4 font-medium text-black"
+            class="title-font md:text-5xl text-3xl mb-4 font-medium text-black"
           >
             Sunucu içerisinde olan
             <a class="underline">eğlenceli oyunlar ile</a> kendi seviyenizi bir
             üstte taşıyın.
           </h1>
-          <p class="mb-8 mt-6 leading-relaxed text-gray-300">
+          <p class="mb-8 mt-6 leading-snug text-gray-300">
             Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı,
             vampir-köylü gibi oyunlarla hem seviyeniz için XP kazanabilir, hem
             arkadaşlarınızla beraber ortak bir şekilde oyununuzu

@@ -1,7 +1,7 @@
 <template>
   <body class="bg-gradient-to-t from-orange-400 to-red-600 select-none">
     <div
-      class="widthius text-center justify-center align-center py-32"
+      class="widthius text-center justify-center align-center py-16 md:py-32"
     >
       <h1 class="text-5xl md:text-6xl">Aestas Flores 🌸</h1>
       <h3 class="text-3xl text-gray-200 mt-2 md:text-4xl">
@@ -28,7 +28,7 @@
 
       <img
         src="../static/logo_black.svg"
-        class="transform scale-125 mt-12 w-32 h-32 px-5 py-5 md:w-64 md:h-64 mx-auto animate-pulse"
+        class="transform scale-200 md:transform md:scale-125 mt-12 w-48 h-48 px-5 py-5 md:w-64 md:h-64 mx-auto animate-pulse"
       />
     </div>
   </body>
