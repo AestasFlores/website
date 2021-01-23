@@ -59,7 +59,7 @@
             Sunucumuzda bulunduğunuz süre zaafında kurallara uymayan herhangi
             birisi size; sataşıyorsa, kavga ortamı oluşturmaya müsaitse,
             herhangi bir neden ötürü ne olursa olsun sizi bile bile rahatsız
-            ediyorsa biz buradayız. Arsa Bekçilerine bu terbiyesiz tohumları
+            ediyorsa biz buradayız. <br> Arsa Bekçilerine bu terbiyesiz tohumları
             şikayet edip, adaleti <strong>siz</strong> sağlayabilirsiniz bizzat
             bize bu bahsettiğimiz etkenleri yapan kullanıcıların adlarını ve
             ID'lerini özelden ulaştırırsanız.
@@ -128,7 +128,7 @@
           <button
             class="widthius text-white bg-orange-500 border-0 py-2 px-5 focus:outline-none hover:bg-orange-600 hover:underline rounded-2xl text-lg"
           >
-            Sunucuya Katıl!
+            <a href="https://discord.gg/VvN88r3">Sunucuya Katıl!</a>
           </button>
         </div>
       </div>
