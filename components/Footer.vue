@@ -28,7 +28,7 @@
 
 <style>
 .foot {
-  padding-top: 5vh;
+  padding-top: 8vh;
 }
 
 .dynamic {
