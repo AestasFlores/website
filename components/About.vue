@@ -30,7 +30,7 @@
               <button
                 class="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded-2xl text-lg hover:underline"
               >
-                Discord
+                Discord Topluluğumuz
               </button>
             </a>
           </div>
@@ -48,10 +48,10 @@
           <h1
             class="title-font md:text-5xl text-3xl mb-4 font-medium text-black"
           >
-            Sizin
+            Sizlerin
             <a class="underline"
-              >memnuniyetinizi, <br class="hidden lg:inline-block" />
-              güvenliğinizi</a
+              >memnuniyetini, <br class="hidden lg:inline-block" />
+              güvenliğini</a
             >
             bizzat önemseriz.
           </h1>
@@ -114,12 +114,12 @@
           <h1
             class="sm:text-3xl text-2xl font-medium title-font mb-2 text-black"
           >
-            Ne duruyorsunuz? Bizde çay için sizi bekliyoruz o kadar! 😠
+            Ne duruyorsunuz?! Bizde çay için sizi bekliyorduk. 😠
           </h1>
           <p class="lg:w-2/3 mx-auto leading-relaxed text-gray-300">
             Şaka bir yana, sizleri de sunucumuzda karşılamaktan gurur duyarız.
-            Haydi! Altta bulunan butona tıklayarak sinirli bir şekilde periler
-            tarafından tohum halinize gelip zamanla çiçek açabilirsiniz!
+            Haydi! Aşağıda bulunan sihirli butona tıklayarak; yine sihirli bir şekilde 
+            Discord topluluğumuza katılabilirsiniz, bu heyecanlı olacak gibi duruyor.
           </p>
         </div>
         <div
