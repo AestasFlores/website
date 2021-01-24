@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gradient-to-b from-red-500 via-orange-600 to-orange-500">
+  <div class="foot bg-gradient-to-b from-red-500 via-orange-600 to-orange-500">
     <div
       class="container md:px-6 py-2 md:mx-auto flex items-center sm:flex-row flex-col"
     >
@@ -27,6 +27,10 @@
 </template>
 
 <style>
+.foot {
+  padding-top: 5vh;
+}
+
 .dynamic {
   transition: border-radius 0.2s;
   border-radius: 100%;
