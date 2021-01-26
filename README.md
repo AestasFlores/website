@@ -10,7 +10,7 @@ Yaz Çiçekleri'nde haftalık düzenenlenen **film/müzik/oyun etkinlikleriyle**
 
 <h2> Sunucu içerisinde olan eğlenceli oyunlar ile seviyenizi bir üstte taşıyın. </h2>
 
-Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı, vampir-köylü gibi oyunlarla hem seviyeniz için XP kazanabilir, hem arkadaşlarınızla beraber ortak bir şekilde oyununuzu oynayabilirsiniz. **Merak etmeyin**, vampir olduğumuz zaman sizi zevk diye ısırmayacağız ama bunun garantisini hiçbir yetkili ekip üyesi sağlayamaz, haha!
+Sunucumuzda bulunan eğlenceli kelime oyunları, tuttu-tutmadı, vampir-köylü gibi oyunlarla hem seviyeniz için XP kazanabilir, hem arkadaşlarınızla beraber ortak bir şekilde oyununuzu oynayabilirsiniz. **Merak etmeyin**, vampir olduğumuz zaman sizi zevk diye ısırmayacağız ama bunun garantisini hiçbir yetkili ekip üyesi sağlayamaz, haha.
 
 <h2> Minik Tohumların önce filizlendiği, sonra çiçek açmış olduğu bir sunucu! </h2>
 
