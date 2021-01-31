@@ -15,11 +15,11 @@
       <p class="text-xs md:text-sm text-gray-300 sm:ml-2 sm:mt-0 mt-4">
         — Made by
         <a
-          href="https://github.com/kaguwomin"
+          href="https://github.com/kaguwo"
           rel="noopener noreferrer"
           class="text-gray-900 hover:underline"
           target="_blank"
-          >@kaguwomin</a
+          >@kaguwo</a
         >
       </p>
     </div>
