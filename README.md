@@ -30,6 +30,6 @@ Neler yaptığımızı merak ediyor olmanız harika, ve doğrusunu söylemek ger
 
 <h2> Eğer ikna olduysanız? </h2>
 
-Eğer gerçekten ikna olduysanız ve Discord Topluluğumuza katılmak istiyorsanız işte tam olarak burada, hey gerçekten tam olarak burada bulunan <a href="https://discord.gg/VvN88r3">harika mavi bağlantı</a> yazısına tıklamanız yeterli olacaktır. Websitemizi incelemek isterseniz de ne yapmanız gerektiğini biliyorsunuz, haha, evet tam olarak <a href="https://aestasflores.me/">buraya</a>; Bu sefer gerçekten oraya.. O halde Aestas Flores'de görüşmek dileği ile..
+Eğer gerçekten ikna olduysanız ve Discord Topluluğumuza katılmak istiyorsanız işte tam olarak burada, hey gerçekten tam olarak burada bulunan <a href="https://discord.gg/VvN88r3">harika mavi bağlantı</a> yazısına tıklamanız yeterli olacaktır. Websitemizi incelemek isterseniz de ne yapmanız gerektiğini biliyorsunuz, haha, evet tam olarak <a href="https://aestasflores.me/">buraya</a>; Bu sefer gerçekten oraya.. O halde Aestas Flores'de görüşmek dileği ile...
 
 
