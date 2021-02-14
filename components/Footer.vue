@@ -10,7 +10,7 @@
           src="../static/logo.svg"
           class="dynamic text-white p-2 bg-gradient-to-l from-orange-400 to-red-400"
         />
-        <span class="ml-2 text-base md:text-xl">Aestas Flores | 2020</span>
+        <span class="ml-2 text-base md:text-xl">Aestas Flores • 2020 — 202?</span>
       </a>
       <p class="text-xs md:text-sm text-gray-300 sm:ml-2 sm:mt-0 mt-4">
         — Made by
