@@ -6,7 +6,7 @@
       <h1 class="text-5xl md:text-6xl">Aestas Flores 🌸</h1>
       <h3 class="text-3xl text-gray-200 mt-2 md:text-4xl">
         Minik tohumların önce filizlendiği, <br />
-        sonra çiçek açmış olduğu bir topluluk sunucusu.
+        sonra çiçek açabileceği bir topluluk sunucusu.
       </h3>
       <p class="text-base mt-6 md:text-2xl">
         Neden mi katılmalısınız? <br />Çünkü
