@@ -57,9 +57,10 @@ export default {
           info: [
             "saygı çerçevesinde konuşuruz.",
             "tohumlarımızı önemseriz.",
-            "ayda bir çekilişler sizinle.",
+            "ayda bir çekilişler yaparız.",
             "başka tohumlarla filizlenebilirsiniz.",
             "yeni türde çiçekler bulabilirsiniz.",
+            "yeni çiçekler ile zaman geçirebilirsiniz.",
           ],
         };
       },
