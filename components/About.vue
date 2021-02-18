@@ -14,13 +14,13 @@
             class="title-font md:text-5xl text-2xl mb-4 font-medium text-black"
           >
             En iyisi, iyileri. <br />
-            Sizin için.
+            Sizler için.
           </h1>
           <p class="mb-8 mt-3 leading-snug text-gray-300">
-            Yaz Çiçekleri'nde haftalık düzenenlenen film/müzik/oyun
+            Yaz Çiçekleri'nde haftalık düzenenlenen film • müzik • oyun
             etkinlikleriyle, aylık düzenenlenen çekilişler arasında gidip
             gelmeye hiç gerek yok. Bunu bir düzen içerisinde zaten ekipçe
-            yapıyoruz. ;) <br />
+            yapıyoruz ve de yapmaya devam edeceğiz. ;) <br />
             Sunucumuza gelmek için altta bulunan "Discord" butonuna tıklayıp,
             kendi <a class="underline">'çiçek'</a> hikayenizi bugünden itibaren
             yazmaya başlayabilirsiniz.
