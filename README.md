@@ -20,7 +20,7 @@ Neden mi katılmalısınız, işte cevabı!; Çünkü yeni türde çiçekler bul
 
 <h2> Peki sadece bir sunucudan mı oluşuyoruz? </h2>
 
-Elbette hayır, bir saniye bu bir şaka değil. Gerçekten de farklı alanlarda çalışmalar yapmak için hazırız desek yalan olmaz. Alanında bilgili sayılabilecek harika bir ekibimiz var, -evet çok mütevazi-. <a href="https://github.com/AestasFlores">Github</a> üzerinden açık kaynaklı projeler paylaşıyoruz, bu açık kaynaklı projeleri her güm daha iyi hale getirmek için çalışıyoruz..
+Elbette hayır, bir saniye bu bir şaka değil. Gerçekten de farklı alanlarda çalışmalar yapmak için hazırız desek yalan olmaz. Alanında bilgili sayılabilecek harika bir ekibimiz var, -evet çok mütevazi-. <a href="https://github.com/AestasFlores">Github</a> üzerinden açık kaynaklı projeler paylaşıyoruz, bu açık kaynaklı projeleri her güm daha iyi hale getirmek için çalışıyoruz, çalışmaya da devam edeceğiz.
 
 <h2> Bana biraz daha ayrıntılı bilgi verin?! </h2>
 
